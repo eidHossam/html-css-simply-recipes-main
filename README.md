@@ -1,6 +1,7 @@
 
 # Simply Recipes website
-**Project Overview:** The Cooking Recipes Website is a front-end project developed using vanilla HTML and CSS. It is designed to provide users with a collection of cooking recipes that are easily accessible and viewable on any screen size. The website utilizes Font Awesome icons to enhance the user interface and provide visual cues.
+**Project Overview:** 
+The Cooking Recipes Website is a front-end project developed using vanilla HTML and CSS. It is designed to provide users with a collection of cooking recipes that are easily accessible and viewable on any screen size. The website utilizes Font Awesome icons to enhance the user interface and provide visual cues.
 
 ## Technologies used:
 - HTML
